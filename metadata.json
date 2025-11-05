@@ -1,0 +1,5 @@
+{
+  "name": "Cyber Command Helper",
+  "description": "An AI-powered assistant that provides command-line commands for cybersecurity personnel based on natural language descriptions of tasks.",
+  "requestFramePermissions": []
+}
